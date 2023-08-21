@@ -1,0 +1,16 @@
+[
+  {
+    "id" : "dhis2-ig-empty",
+    "type" : "ImplementationGuide",
+    "url" : "https://github.com/JohanGHole/dhis2-empty-ig/ImplementationGuide/dhis2-ig-empty",
+    "version" : "1.0.0",
+    "name" : "DHIS2"
+  },
+  {
+    "id" : "MyPatient",
+    "type" : "StructureDefinition",
+    "url" : "https://github.com/JohanGHole/dhis2-empty-ig/StructureDefinition/MyPatient",
+    "version" : "1.0.0",
+    "name" : "MyPatient"
+  }
+]
