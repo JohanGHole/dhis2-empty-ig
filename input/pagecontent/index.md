@@ -1,3 +1,1 @@
-# SMART
-
-Feel free to modify this index page with your own awesome content!
+# Base DHIS2 FHIR Spec
